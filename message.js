@@ -1,2 +1,2 @@
-var input = prompt("Please enter your message:");
-alert(input);
+var message = prompt("Please enter your message:");
+alert(message);
